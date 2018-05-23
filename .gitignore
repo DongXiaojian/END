@@ -6,6 +6,5 @@
 \.idea
 *.swp
 *.xml
-*.iml
-
+\.DS_Store
 
