@@ -13,7 +13,7 @@
 
 
 
-`需要的依赖是execjs， 请参考：https://www.jianshu.com/p/`
+`需要的依赖是execjs， 请参考：https://www.jianshu.com/p/e01a3d504700`
 
 
 
